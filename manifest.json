@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "file": "packs/civoramc-forge-tree-v1.zip",
-  "bytes": 34979,
-  "sha1": "c45ab90507a7701b535c296e5e2c316e5735df66",
-  "sha256": "8d2103d72c9392620135eef3e1434799bbc9a82903b5ab0c69b9ec3b94306563",
-  "resource_pack_id": "a509642c-13c6-516c-9f66-e07c69e27c2b",
+  "file": "packs/civoramc-ferry-v1.zip",
+  "bytes": 182685,
+  "sha1": "ecf49ea15ea71f350b824871af1b0295486c11f3",
+  "sha256": "1bca06f088afc8c0c5ca538450b0f1a71db20e5823224617c780f6737aa5d8e3",
+  "resource_pack_id": "4021dc71-1201-5f20-98e3-401cf0c0f715",
   "resource_format": 88
 }
