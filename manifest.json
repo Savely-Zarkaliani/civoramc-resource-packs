@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "file": "packs/civoramc-ferry-v1.zip",
-  "bytes": 182685,
-  "sha1": "ecf49ea15ea71f350b824871af1b0295486c11f3",
-  "sha256": "1bca06f088afc8c0c5ca538450b0f1a71db20e5823224617c780f6737aa5d8e3",
-  "resource_pack_id": "4021dc71-1201-5f20-98e3-401cf0c0f715",
+  "file": "packs/civoramc-ferry-v2.zip",
+  "bytes": 182948,
+  "sha1": "2540ab1ea55de8658b127d0a9408e3bbd8303752",
+  "sha256": "3fd3abfe5c86ca0c12ffcb7ab77f6860399cc3a32aa3bafce970cfa0e518ea4c",
+  "resource_pack_id": "8488ae29-8fc4-59c6-87d0-026248eb5223",
   "resource_format": 88
 }
