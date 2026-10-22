@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-epic-pickaxe-preview-v1.zip",
+  "bytes": 726435,
+  "sha1": "5836f4c04093db6ca73378881ab5675a20b65d26",
+  "sha256": "0d918a743dacf2cb6b9cea34a19407426a0d7aca20feefec045de6b41fb87b61",
+  "resource_pack_id": "440e93c2-dabe-5d97-883a-05c25cc82c53",
+  "resource_format": 88,
+  "base_sha1": "3be6f9620ebe83c49820331c796f181c276eb796",
+  "added_assets": 4,
+  "changed_selectors": 1,
+  "existing_entries_preserved": 124,
+  "client_acceptance": false
+}
