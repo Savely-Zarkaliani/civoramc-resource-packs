@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-rare-stone-set-preview-v1.zip",
+  "bytes": 653920,
+  "sha1": "3be6f9620ebe83c49820331c796f181c276eb796",
+  "sha256": "20631e2f9f9720b1e901c3cee775c5ea15f9b0f44a052ef5d03201bd997d55fa",
+  "resource_pack_id": "e6b12d8b-a05a-5828-a334-4770ce16fee8",
+  "resource_format": 88,
+  "base_sha1": "401fb321d8b176342ac0193a3f0e3cf8844a938a",
+  "added_assets": 9,
+  "changed_selectors": 4,
+  "existing_entries_preserved": 112,
+  "client_acceptance": false
+}
