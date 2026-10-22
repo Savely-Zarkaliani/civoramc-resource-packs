@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-legendary-stone-set-preview-v1.zip",
+  "bytes": 915675,
+  "sha1": "69df738d4bd7d5b58e734eb4900d5b4bd0417864",
+  "sha256": "ae735523dcbad117454d0385816fbaad8d0dc952445af98491465719701a006f",
+  "resource_pack_id": "88f359bf-4946-54ba-a855-37b033be6a95",
+  "resource_format": 88,
+  "base_sha1": "5ecc7348280c6f3c84edb7378f3adf24542ecfb1",
+  "added_assets": 12,
+  "changed_selectors": 4,
+  "existing_entries_preserved": 131,
+  "shared_assets_deduplicated": 2,
+  "client_acceptance": false
+}
