@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-epic-stone-set-preview-v1.zip",
+  "bytes": 749971,
+  "sha1": "5ecc7348280c6f3c84edb7378f3adf24542ecfb1",
+  "sha256": "6e4b0cbc1c634421c6fa7474d8db1d300030471af56aede8d1d238a45f61d111",
+  "resource_pack_id": "63254f49-a623-5d6c-9d31-8ba041cd1f18",
+  "resource_format": 88,
+  "base_sha1": "5836f4c04093db6ca73378881ab5675a20b65d26",
+  "added_assets": 6,
+  "changed_selectors": 3,
+  "existing_entries_preserved": 126,
+  "shared_assets_reused": 2,
+  "client_acceptance": false
+}
