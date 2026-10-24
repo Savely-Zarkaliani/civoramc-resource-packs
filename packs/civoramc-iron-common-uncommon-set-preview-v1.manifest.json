@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-iron-common-uncommon-set-preview-v1.zip",
+  "bytes": 1005376,
+  "sha1": "441e44ac7618e3867f322d99ae64aed33808366c",
+  "sha256": "2d8c7d2c80801cb97930019517852732116996df02d0c661973fc7bd88d38c82",
+  "resource_format": 88,
+  "base_sha1": "17abb7b19818a8f458d4ef67f01543198f6cf73a",
+  "existing_entries_preserved": 147,
+  "added_assets": 23,
+  "replaced_assets": 0,
+  "removed_assets": 0,
+  "materials": [
+    "IRON_PICKAXE",
+    "IRON_SWORD",
+    "IRON_AXE",
+    "IRON_HOE"
+  ],
+  "rarities": [
+    "COMMON",
+    "UNCOMMON"
+  ],
+  "requires_appearance_adapter": true,
+  "client_acceptance": false
+}
