@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-strength-potion-e-v1.zip",
+  "bytes": 1192620,
+  "sha1": "f8776a8245c4048bd8f9ecaf285459057c7cc8b7",
+  "sha256": "4cfa067d5a7e4fd8984f1c29ceca1ca257c4cd09255fd1120ae694ab210600a2",
+  "resource_format": 88,
+  "existing_entries_preserved": 276,
+  "added_assets": 1,
+  "replaced_assets": 1,
+  "removed_assets": 0,
+  "model_key": "civoramc:potions/strength_i_v1",
+  "scope": "Reviewed separate potion detail sprite and explicit material; geometry, drinking and animation unchanged",
+  "client_acceptance": false
+}
