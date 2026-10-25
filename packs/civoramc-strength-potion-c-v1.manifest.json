@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-strength-potion-c-v1.zip",
+  "bytes": 1186740,
+  "sha1": "2a574d48a98008e767a627905e23d200a7691a92",
+  "sha256": "db9c465a621a979c9976ca0fda7d71ca6a2ea985fbb52b50a2ab7ed028d9b36c",
+  "resource_format": 88,
+  "existing_entries_preserved": 272,
+  "added_assets": 5,
+  "replaced_assets": 0,
+  "removed_assets": 0,
+  "model_key": "civoramc:potions/strength_i_v1",
+  "scope": "Reviewed Strength I potion model C; additive art only; no vanilla override or gameplay changes",
+  "client_acceptance": false
+}
