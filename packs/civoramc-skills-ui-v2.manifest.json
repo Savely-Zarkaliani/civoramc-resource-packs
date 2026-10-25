@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-skills-ui-v2.zip",
+  "bytes": 1178176,
+  "sha1": "0dec75475b7d8197c2fd7b72f7f82a6152bd3ff2",
+  "sha256": "d09aca2c67a7a549cb97e86159b634e0fce22aa4da13c2d84fee1e78710063de",
+  "resource_format": 88,
+  "existing_entries_preserved": 205,
+  "added_assets": 60,
+  "replaced_assets": 0,
+  "removed_assets": 0,
+  "client_mods": false,
+  "client_acceptance": false
+}
