@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-server-hub-v1.zip",
+  "bytes": 1180629,
+  "sha1": "1a33416349d20468af5e9e0ff41d0ec9120921c8",
+  "sha256": "32359c5fc03e7f2d4a4fb01181eabbd1d0b57dfe215a2acf4e1424610c20ec9c",
+  "resource_format": 88,
+  "existing_entries_preserved": 265,
+  "added_assets": 7,
+  "replaced_assets": 0,
+  "removed_assets": 0,
+  "client_mods": false,
+  "scope": "native button theme for server menus; includes previous skill tree and models unchanged",
+  "client_acceptance": false
+}
