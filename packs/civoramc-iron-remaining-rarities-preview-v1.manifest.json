@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-iron-remaining-rarities-preview-v1.zip",
+  "bytes": 1157394,
+  "sha1": "4e15628945d2523968f341758cbf71e7d54604b2",
+  "sha256": "35d0b8412bae432ba72ed982d6531dec1d99004bcf9e4fd056925abdeeb0c100",
+  "resource_format": 88,
+  "base_sha1": "441e44ac7618e3867f322d99ae64aed33808366c",
+  "existing_entries_preserved": 166,
+  "added_assets": 35,
+  "replaced_assets": 4,
+  "removed_assets": 0,
+  "materials": [
+    "IRON_PICKAXE",
+    "IRON_SWORD",
+    "IRON_AXE",
+    "IRON_HOE"
+  ],
+  "rarities": [
+    "RARE",
+    "EPIC",
+    "LEGENDARY"
+  ],
+  "requires_appearance_adapter": true,
+  "client_acceptance": false
+}
