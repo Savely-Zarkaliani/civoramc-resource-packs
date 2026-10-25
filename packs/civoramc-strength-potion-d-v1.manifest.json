@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-strength-potion-d-v1.zip",
+  "bytes": 1191109,
+  "sha1": "7412fdc43ea45796d0e2a8ef24fc7ae499119ffd",
+  "sha256": "05c0efba9c93675b473122312d9bd314564fc0ca0bd655285894f87a6adf6e67",
+  "resource_format": 88,
+  "existing_entries_preserved": 273,
+  "added_assets": 0,
+  "replaced_assets": 4,
+  "removed_assets": 0,
+  "model_key": "civoramc:potions/strength_i_v1",
+  "scope": "Reviewed potion D drinking transforms, translucent liquid material and 16-frame texture animation; no gameplay changes",
+  "client_acceptance": false
+}
