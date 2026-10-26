@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "file": "packs/civoramc-city-map-menu-v1.zip",
+  "bytes": 1283560,
+  "sha1": "e784393e4672afcf44ff50ca4afa5e1eaa23732d",
+  "sha256": "6d9ccb85041709c7b9437501b1de0a6f497ea06bfdab869de555b9270d0de6c0",
+  "uuid": "43697cb6-f34f-5782-bc99-5471a4d3fcfc",
+  "existing_entries_preserved": 278,
+  "added_assets": 4,
+  "replaced_assets": 0,
+  "removed_assets": 0,
+  "scope": "City maps, native menu and descriptions; no player movement or client mods",
+  "new_content": "Two city terrain images, font definition and map manifest; no world files, accounts or credentials",
+  "client_acceptance": false
+}
