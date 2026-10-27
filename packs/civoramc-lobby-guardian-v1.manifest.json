@@ -1,0 +1,17 @@
+{
+  "file": "civoramc-lobby-guardian-v1.zip",
+  "sha1": "63b885882b8a55b2f154566e9083a4aa25942b13",
+  "sha256": "2f062426dd31d6ffd29abe6817e6a9337eaed80fac0151b76e30024c720568be",
+  "uuid": "6e44cf56-093f-50df-a015-fdbb5ec1e36f",
+  "bytes": 1316461,
+  "base_sha1": "e784393e4672afcf44ff50ca4afa5e1eaa23732d",
+  "old_entries_exact": 282,
+  "added": [
+    "assets/civoramc/items/lobby/guardian_v1.json",
+    "assets/civoramc/models/lobby/guardian_v1.json",
+    "assets/civoramc/textures/entity/lobby/guardian_steel_v1.png"
+  ],
+  "elements": 168,
+  "embedded_sword_elements": 78,
+  "client_acceptance": "OPEN"
+}
