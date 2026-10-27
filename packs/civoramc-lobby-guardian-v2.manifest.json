@@ -1,0 +1,23 @@
+{
+  "file": "civoramc-lobby-guardian-v2.zip",
+  "sha1": "cab915b67b20c7fef07218792199244755c94c30",
+  "sha256": "aab07114db8ce81df128e582f8b776e7c02408efc20dbb3f637c56711f4e7c7e",
+  "uuid": "b5d1c7dd-0f03-557f-92d7-d5e3166219ed",
+  "bytes": 1316484,
+  "base_sha1": "e784393e4672afcf44ff50ca4afa5e1eaa23732d",
+  "old_entries_exact": 281,
+  "replaced": [
+    "assets/minecraft/atlases/items.json"
+  ],
+  "added": [
+    "assets/civoramc/items/lobby/guardian_v1.json",
+    "assets/civoramc/models/lobby/guardian_v1.json",
+    "assets/civoramc/textures/entity/lobby/guardian_steel_v1.png"
+  ],
+  "elements": 168,
+  "embedded_sword_elements": 78,
+  "client_acceptance": "OPEN",
+  "previous_pack_sha1": "63b885882b8a55b2f154566e9083a4aa25942b13",
+  "previous_pack_entries_preserved": 284,
+  "fix": "Register guardian armour in the item atlas; all previous model and texture bytes are exact"
+}
